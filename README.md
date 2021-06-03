@@ -10,9 +10,10 @@
 
 ## Installation
 
-Following the steps below will guide you to install and run application.Before this please unzip the foodApp.zip file and then
+Following the steps below will guide you to install and run application.
 
 ```
+git clone git@github.com:jayasaitota/foodAppGrabIt.git
 cd foodApp
 npm install  
 npm start  
